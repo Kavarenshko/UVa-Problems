@@ -1,0 +1,4 @@
+iD = 787
+title = Maximum Sub-sequence Product
+difficulty = medium
+tags = 787 greedy dynamic-programming dp best-result range-sum 1d-range-sum java biginteger overflow
